@@ -1,0 +1,7 @@
+Windows环境下sphinx 的学习步骤；
+在开始之前，首先应当配置好sphinx的工作环境，配置环境详见：sphinx的官方链接：https://iridescent.ink/tutorials/
+1>: mkdjr H:\sphinx\trysphinx
+2>  /d cd:H\sphinx\trysphinx
+3>  sphinx-quickstart
+4>  配置基本文档
+5>  make.bat html
